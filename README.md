@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=softliumin)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=softliumin&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 - 柳敏 zody
 - 💻 软件工程师，网易严选(杭州) 专注电商后端开发
