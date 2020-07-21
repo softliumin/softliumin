@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 柳敏 zody
+- 💻 软件工程师，曾任职京东金融，阿里巴巴，嘉云数据，网易严选 专注电商后端开发
+- 🏍️ 爱机车
+- 🏊 爱游泳
+- 🎿 爱滑雪
