@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=softliumin)](https://github.com/anuraghazra/github-readme-stats)
+
 - 柳敏 zody
 - 💻 软件工程师，网易严选(杭州) 专注电商后端开发
 - 📅 曾任职京东金融(北京)，阿里巴巴(杭州)，嘉云数据(杭州)
